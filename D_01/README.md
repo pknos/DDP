@@ -249,6 +249,7 @@ $ npm install --save-dev live-server
 
 ```sh
 $ npm run serve
+$ npm run dev
 ```
 
 ---
